@@ -1,7 +1,7 @@
 # VGTU tinklapio projektas (readme.md)
 
 ## Autorius:
-[Įrašyk savo vardą ir pavardę]
+[Aivaras Guntulis]
 
 ## Tema:
 Pirmasis HTML namų darbas – internetinio tinklapio kūrimas tema: **VGTU**
